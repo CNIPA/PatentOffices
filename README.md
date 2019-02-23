@@ -6,6 +6,7 @@ Patent Office sites from all over the world. / 世界各国专利局网站
 
 <!-- vim-markdown-toc GFM -->
 
+- [International or regional organization / 国际或地区组织](#international-or-regional-organization--国际或地区组织)
 - [Asia / 亚洲](#asia--亚洲)
 - [Europe / 欧洲](#europe--欧洲)
 - [North America / 北美洲](#north-america--北美洲)
@@ -16,6 +17,18 @@ Patent Office sites from all over the world. / 世界各国专利局网站
 - [Africa / 非洲](#africa--非洲)
 
 <!-- vim-markdown-toc -->
+
+## International or regional organization / 国际或地区组织
+
+| Code | Organization                                                | 组织                 | Site                       |
+| ---- | ----------------------------------------------------------- | -------------------- | -------------------------- |
+| WO   | World Intellectual Property Organization (WIPO)             | 世界知识产权组织     | <https://www.wipo.int/>    |
+| EP   | Europe Patent Office (EPO)                                  | 欧洲专利局           | <http://www.epo.org/>      |
+| EU   | Europe Union Intellectual Property Office (EUIPO)           | 欧盟知识产权局       | <https://euipo.europa.eu/> |
+| OA   | Africa Intellectual Property Organization (OAIP)            | 非洲知识产权组织     | <http://www.oapi.int/>     |
+| AP   | African Regional Intellectual Property Organization (ARIPO) | 非洲地区工业产权组织 | <http://www.aripo.org/>    |
+| BO   | Benelux Office for Intellectual Property (BOIP)             | 比荷卢知识产权组织   | <https://www.boip.int/>    |
+| EA   | Eurasian Patent Organization (EAIP)                         | 欧亚专利组织         | <https://www.eapo.org/>    |
 
 ## Asia / 亚洲
 
@@ -53,7 +66,6 @@ Patent Office sites from all over the world. / 世界各国专利局网站
 
 | Code | Country         | 国家       | Site                                                             |
 | ---- | --------------- | ---------- | ---------------------------------------------------------------- |
-| EP   | Europe          | 欧洲       | <http://www.epo.org/>                                            |
 | GB   | United Kiongdom | 英国       | <http://www.ipo.gov.uk/home.htm>                                 |
 | FR   | France          | 法国       | <http://www.inpi.fr/>                                            |
 | DE   | Germany         | 德国       | <http://www.deutsches-patentamt.de/>                             |
@@ -146,4 +158,3 @@ Patent Office sites from all over the world. / 世界各国专利局网站
 | MZ   | Mozambique   | 莫桑比克   | <http://www.ipi.gov.mz/>                 |
 | TN   | Tunisia      | 突尼斯     | <http://www.innorpi.tn/Fra/accueil_46_4> |
 | ZA   | South Africa | 南非       | <http://www.cipc.co.za/>                 |
-
