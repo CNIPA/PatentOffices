@@ -175,6 +175,7 @@ Patent Office sites from all over the world. / 世界各国专利局网站
 | ---- | ----------- | -------- | -------------------------------- |
 | AU   | Australia   | 澳大利亚 | <http://www.ipaustralia.gov.au/> |
 | NZ   | New Zealand | 新西兰   | <http://www.iponz.govt.nz/cms>   |
+| FJ   | Fiji        | 斐济     | <http://www.ag.gov.fj/>          |
 
 ## Africa / 非洲
 
