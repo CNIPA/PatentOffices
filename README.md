@@ -12,7 +12,6 @@ Patent Office sites from all over the world. / 世界各国专利局网站
 - [North America / 北美洲](#north-america--北美洲)
 - [Central America / 中美洲](#central-america--中美洲)
 - [South America / 南美洲](#south-america--南美洲)
-- [Latin America / 拉丁美洲](#latin-america--拉丁美洲)
 - [Oceania / 大洋洲](#oceania--大洋洲)
 - [Africa / 非洲](#africa--非洲)
 
@@ -172,6 +171,7 @@ Patent Office sites from all over the world. / 世界各国专利局网站
 | TT   | Trinidad and Tobago | 特立尼达和多巴哥 | <http://www.ipo.gov.tt/>                                                                         |
 | GT   | Guatemala           | 危地马拉         | <https://www.rpi.gob.gt/>                                                                        |
 | DO   | Dominica            | 多米尼加         | <http://onapi.gob.do/>                                                                           |
+| CR   | Costa Rica          | 哥斯达黎加       | <http://www.rnpdigital.com/index.htm>                                                            |
 
 ## South America / 南美洲
 
@@ -190,12 +190,6 @@ Patent Office sites from all over the world. / 世界各国专利局网站
 | BO   | Bolivia (Plurinational State of) | 玻利维亚 | <http://www.senapi.gob.bo/>                                    |
 | GY   | Guyana                           | 圭亚那   | ---                                                            |
 | SR   | Suriname                         | 苏里南   | ---                                                            |
-
-## Latin America / 拉丁美洲
-
-| Code | Country    | 国家       | Site                                  |
-| ---- | ---------- | ---------- | ------------------------------------- |
-| CR   | Costa Rica | 哥斯达黎加 | <http://www.rnpdigital.com/index.htm> |
 
 ## Oceania / 大洋洲
 
