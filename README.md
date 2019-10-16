@@ -28,7 +28,7 @@ Patent Office sites from all over the world. / 世界各国专利局网站
 | AP   | African Regional Intellectual Property Organization (ARIPO) | 非洲地区工业产权组织               | <http://www.aripo.org/>    |
 | BO   | Benelux Office for Intellectual Property (BOIP)             | 比荷卢知识产权组织                 | <https://www.boip.int/>    |
 | EA   | Eurasian Patent Organization (EAIP)                         | 欧亚专利组织                       | <https://www.eapo.org/>    |
-| GC   | Gulf Cooperation Council (GCC)                              | 海湾地区阿拉伯国家合作委员会专利局 |                            |
+| GC   | Gulf Cooperation Council (GCC)                              | 海湾地区阿拉伯国家合作委员会专利局 | <https://www.gcc-sg.org/>  |
 
 ## Asia / 亚洲
 
