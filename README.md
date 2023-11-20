@@ -61,7 +61,7 @@ Patent Office sites from all over the world. / 世界各国专利局网站
 | SY   | Syria                                 | 叙利亚           | <http://www.spo.gov.sy/>                                                         |
 | TH   | Thailand                              | 泰国             | <http://www.ipthailand.org/>                                                     |
 | TJ   | Tajikistan                            | 塔吉克斯坦       | <http://www.ncpi.tj/index.php/ru/>                                               |
-| TR   | Turkey                                | 土耳其           | <http://online.tpe.gov.tr/web/index.html>                                        |
+| TR   | Turkey                                | 土耳其           | <https://www.turkpatent.gov.tr/>                                        |
 | UZ   | Uzbekistan                            | 乌兹别克斯坦     | <http://ima.uz/ru/>                                                              |
 | VN   | Vietnam                               | 越南             | <http://www.noip.gov.vn/>                                                        |
 | YE   | Yemen                                 | 也门             | <http://www.yipo.gov.ye/>                                                        |
